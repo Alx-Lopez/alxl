@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: building-columns
     location: TX
-    date_start: '2019-08'
+    date_start: '2019-08-25'
     date_end: '2021-05'
     description: |2-
         Responsibilities include:
@@ -41,7 +41,7 @@ experience:
     company_url: ''
     company_logo: building-columns
     location: TX
-    date_start: '2018-08'
+    date_start: '2018-08-25'
     date_end: '2019-05'
     description: |2-
         Responsibilities include:
