@@ -4,7 +4,7 @@
     url: https://www.stanford.edu/ -->
 title: Alejandro Lopez
 role: Recent C.S. Graduate
-avatar_filename: hnet.com-image-3-.jpg
+avatar_filename: hnet.com-image-4-.jpg
 bio: My interests include Neural Networks, Blockchain and AI.
 interests:
   - Artificial Intelligence
