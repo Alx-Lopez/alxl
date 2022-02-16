@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Data Science 
+    tag: ds
+  - name: SWE
+    tag: swe
+  - name: Product Management
+    tag: pd
   - name: Other
     tag: Demo
 
