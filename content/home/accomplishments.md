@@ -23,14 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-<!-- - certificate_url:''
-  date_end: "2021-08"
-  date_start: "2021-06"
-  description: "built digital products from end to end,and lead cross-functional teams"
-  organization: Product School
-  organization_url: https://productschool.com/
-  title: product managment 
-  url: https://productschool.com/product-management-certification/ -->
 - certificate_url: https://www.coursera.org
   date_end: ""
   date_start: "2021-01-25"
@@ -55,7 +47,6 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R'
   url: ""
-
 
 design:
   columns: '2' 
