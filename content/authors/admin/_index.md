@@ -62,4 +62,4 @@ Alejandro Lopez is a Meticulous and motivated recent Computer Science graduate e
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Alejandro_Lopez Resume(PM ).pdf" "newtab" >}}resumé{{< /staticref >}}.
