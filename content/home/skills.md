@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 70%
-  icon: fa-product-hunt
+  icon: product-hunt
   icon_pack: fab
   name: Product Management
 
