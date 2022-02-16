@@ -25,7 +25,7 @@ experience:
   - title: Senior Residental Assistant
     company: St.Edwards University
     company_url: ''
-    company_logo: org-gc
+    company_logo:
     location: Texas
     date_start: '2019-08-25'
     date_end: '2021-05-16'
