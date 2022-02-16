@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
  - title: Senior Residental Assistant 
-    company: St. Edwards University
+    company: St.Edwards University
     company_url: ''
     company_logo: building-columns
     location: TX
@@ -37,7 +37,7 @@ experience:
         * Deploying
         
   - title: Residental Assistant 
-    company: St. Edwards University
+    company: St.Edwards University
     company_url: ''
     company_logo: building-columns
     location: TX
