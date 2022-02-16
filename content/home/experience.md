@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior Residental Assistant
-    company: St.Edwards University
+    company: St. Edwards University
     company_url: ''
     company_logo:
     location: Texas
@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Residental Assistant
+    company: St. Edwards University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: Texas
+    date_start: '2018-08-01'
+    date_end: '2019-05-16'
+    description: TODO
 
 design:
   columns: '2'
