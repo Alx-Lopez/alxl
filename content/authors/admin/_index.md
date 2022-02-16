@@ -1,4 +1,5 @@
 ---
+organizations: []
 <!-- organizations:
   - name: Stanford University
     url: https://www.stanford.edu/ -->
@@ -25,9 +26,12 @@ education:
     - course: BSc in Computer Science
       institution: St. Edwards University
       year: 2021
-email: alexlopez1067@gmail.com
+    - year: 2021
+      institution: Product School
+      course: Product Management
 superuser: true
 highlight_name: true
+email: ""
 ---
 
 Alejandro Lopez is a Meticulous and motivated recent Computer Science graduate eager to join your company to offer superb analytical, technical and product skills to research customer problems and define product specifications to build for the ultimate customer. Previously completed a 2-month certification in product management where I learned and refined my understanding of the product lifecycle. Recently completed a 4-month Data Science Bootcamp with Netflix where I developed industry standard practices in data analysis and completed 3 real world dataset analysis projects. 
