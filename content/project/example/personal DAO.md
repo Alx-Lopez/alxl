@@ -1,8 +1,8 @@
 ---
-title: We-GO Transportation as a service
-summary: An example of using the in-built project page.
+title: DAO
+summary: Created a DAO using React.
 tags:
-- swe
+- Demo
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
