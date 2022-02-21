@@ -4,7 +4,7 @@ organizations: []
   - name: Stanford University
     url: https://www.stanford.edu/ -->
 title: Alejandro Lopez
-role: Recent C.S. Graduate
+role: C.S Student
 avatar_filename: avatar.jpg
 bio: My interests include Python, Blockchain and Data Science
 interests:
@@ -33,8 +33,8 @@ superuser: true
 highlight_name: true
 email: ""
 ---
-Alejandro Lopez is a Meticulous and motivated recent Computer Science graduate eager to join your company to offer superb analytical, technical and product skills to research customer problems and define product specifications to build for the ultimate customer. Previously completed a 2-month certification in product management where I learned and refined my understanding of the product lifecycle. Recently completed a 4-month Data Science Bootcamp with Netflix where I developed industry standard practices in data analysis and completed 3 real world dataset analysis projects. 
+Alejandro Lopez is a meticulous and motivated computer science student eager to join your company to offer superb analytical, technical and product skills to research customer problems and define product specifications to build for the ultimate customer. Previously completed a 2-month certification in product management where I learned and refined my understanding of the product lifecycle. Recently completed a 4-month Data Science Bootcamp with Netflix where I developed industry standard practices in data analysis and completed 3 real world dataset analysis projects.  Addtionally completed 2 software projects that utilzed user centered design and 
 
-Some Hobbes of mine are playing video games, fitness and card games.
+Some hobbies of mine are playing video games, fitness and card games.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Alejandro_Lopez Resume(PM ).pdf" "newtab" >}}resumé{{< /staticref >}}.
