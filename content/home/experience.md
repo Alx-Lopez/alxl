@@ -32,9 +32,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Built connections with team members through effective communication and collaboration on 6 projects while delivering impact in a goal-oriented environment
+        * Established key building processes to help the team operate more effectively reducing avg time of work order by 86% 
+        * Partnered with student health center and offices across campus in cross functional education projects for 400+ residents
+        *Generate reports on Excel to conduct trend analysis for resident programs, identifying niche trends and pain points to optimize organic growth of programs from 13% to 20% in a span of 1 month
         
   - title: Residental Assistant
     company: St. Edwards University
@@ -43,7 +44,12 @@ experience:
     location: Texas
     date_start: '2018-08-01'
     date_end: '2019-05-16'
-    description: TODO
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
 design:
   columns: '2'
