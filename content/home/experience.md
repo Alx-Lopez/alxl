@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Operations and Production 
+    company: AL Construction
+    company_url: ''
+    company_logo:
+    location: Texas
+    date_start: '2020-01-10'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analyzed financial statements, and business summary reports, to attain data based on budget and duration which increased revenue by 7%
+        * Created and maintained company website on Squarespace which resulted in a 50% increase in interest for the company 
+        * Maintained and built relationships with 20+ employees, providing exceptional customer service translated to increased employee retention
+        
   - title: Senior Residental Assistant
     company: St. Edwards University
     company_url: ''
@@ -44,12 +58,7 @@ experience:
     location: Texas
     date_start: '2018-08-01'
     date_end: '2019-05-16'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: ''
 
 design:
   columns: '2'
